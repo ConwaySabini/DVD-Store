@@ -1,2 +1,2 @@
 # DVD-Store
-Utilizes file input and output to manage a DVD Store with customers borrowing, and returning movies, and getting the history. Implemented a hash table with open chaining and a self balancing AVL tree
+Utilizes file input and output to manage a DVD Store with customers borrowing, and returning movies, and getting the history. Implemented a hash table with open chaining and a self balancing AVL tree. Implemented a hash table with open chaining and a self balancing AVL tree. The hash table was used to store the customer transaction history, while the AVL tree was used to store the movie data and stock of movies.
