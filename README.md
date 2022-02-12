@@ -9,6 +9,7 @@ Acceptable operators are: borrow, return, inventory, and history with all other 
 * further class descriptions are found under the UML diagrams
 
 Architecture:
+
 ![image](https://user-images.githubusercontent.com/53063791/153732192-31b81985-e29c-4655-88e3-ab0b593a922f.png)
 
 
